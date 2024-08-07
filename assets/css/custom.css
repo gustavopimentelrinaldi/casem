@@ -94,6 +94,26 @@
     transform: scale(1.05); 
 }
 
+.btn-saiba-mais {
+    background: linear-gradient(to top, #083e5e, #0b4a6f);
+    color: white;
+    border: none;
+    border-radius: 10px; 
+    padding: 0.75rem 2rem;
+    font-size: 1rem; 
+    font-weight: bold;
+    text-decoration: none; 
+    display: inline-block;
+    transition: background 0.3s ease, transform 0.3s ease; 
+    margin-top: 1rem; 
+}
+.btn-saiba-mais:hover {
+    background: linear-gradient(to top, #083e5e, #0b4a6f);
+    color: white; 
+    text-decoration: none; 
+    transform: scale(1.05); 
+}
+
 /* carrossel */
 .media-29101 img {
     width: auto;
